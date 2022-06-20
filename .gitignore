@@ -1,0 +1,13 @@
+# System Files:
+
+.DS_Store
+
+# Project Files:
+
+keys.txt
+todo.txt
+
+
+# Project Folders:
+
+Private Data/
